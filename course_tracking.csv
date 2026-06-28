@@ -1,0 +1,21 @@
+course,title,url,lecture_status,homework_status
+CS50x,Lecture 0 - Scratch,https://cs50.harvard.edu/x/2026/lectures/0/,Done,0
+CS50x,Lecture 1 - C,https://cs50.harvard.edu/x/2026/lectures/1/, In-Progress, 0
+CS50x,Lecture 2 - Arrays,https://cs50.harvard.edu/x/2026/lectures/2/, In-Progress, 0
+CS50x,Lecture 3 - Algorithms,https://cs50.harvard.edu/x/2026/lectures/3/, In-Progress, 0
+CS50x,Lecture 4 - Memory,https://cs50.harvard.edu/x/2026/lectures/4/, In-Progress, 0
+CS50x,Lecture 5 - Data Structures,https://cs50.harvard.edu/x/2026/lectures/5/, In-Progress, 0
+CS50x,Lecture 6 - Python,https://cs50.harvard.edu/x/2026/lectures/6/, In-Progress, 0
+CS50x,Lecture 7 - SQL,https://cs50.harvard.edu/x/2026/lectures/7/, In-Progress, 0
+CS50x,Lecture 8 - HTML CSS JavaScript, https://cs50.harvard.edu/x/2026/lectures/8/, In-Progress, 0
+CS50x, Lecture 9 - Flask, https://cs50.harvard.edu/x/2026/lectures/9/, In-Progress, 0
+CS106B, Lecture 1 - Intro, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 2 - C++ Functions, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 3 - Streams, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 4 - Collections, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 5 - Vector Stack Queue, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 6 - Map Set, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 7 - Recursion Intro, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 8 - Recursion Deep Dive, https://www.youtube.com/watch?v=kMzH3tfP6f8, In-Progress, 0
+CS106B, Lecture 9 - Fractals, https://www.youtube.com/watch?v=uFJhEPrbycQ, In-Progress, 0
+CS106B, Lecture 10 - Backtracking, https://www.youtube.com/watch?v=NdF1QDTRkck, In-Progress, 0
