@@ -1,0 +1,7 @@
+SpeechRecognition
+sounddevice
+numpy
+spacy
+pyautogui
+pytube
+pyttsx3
